@@ -3991,12 +3991,12 @@ input, select, textarea {
             margin: 15px 0 10px;
             font-size: 17px; /* Increase font size for title */
 			color: black;
-
+		    line-height: normal;
         }
 
         .qsd-box p {
             margin: 10px 0;
-            font-size: 0.9em; /* Standard font size for description */
+            font-size: 0.8em; /* Standard font size for description */
             color: #555; /* Slightly darker color for description */
             flex-grow: 1; /* Allow description to grow and take space */
             overflow: hidden; /* Hide overflow text */
