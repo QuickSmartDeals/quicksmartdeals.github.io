@@ -3987,7 +3987,7 @@ input, select, textarea {
         .qsd-box img {
             width: 100%; /* Full width */
             height: 200px; /* Fixed height for images */
-            object-fit: cover; /* Cover the box while maintaining aspect ratio */
+            object-fit: fill; /* Cover the box while maintaining aspect ratio */
             border-radius: 5px; /* Rounded corners for images */
 			color: black;
         }
