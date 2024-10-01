@@ -1,11 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,600italic");
 
-/*
-	Forty by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -4047,27 +4042,3 @@ input, select, textarea {
 			color: black;
 
 		}
-.qsd-box {
-  background-color: #007bff; /* Default blue color */
-  color: white; /* Text color */
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin: 20px;
-  padding: 20px;
-  border-radius: 8px;
-}
-
-.qsd-button {
-  background-color: #0056b3; /* Darker blue for button */
-  color: white;
-  padding: 10px 20px;
-  text-decoration: none;
-  border-radius: 5px;
-}
-
-.price {
-  font-size: 18px;
-  color: black; /* Price color set to black */
-  margin: 10px 0; /* Space around the price */
-}
