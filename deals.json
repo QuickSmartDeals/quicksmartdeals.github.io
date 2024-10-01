@@ -1,0 +1,48 @@
+{
+  "deals": [
+      {
+          "image": "path/to/image1.jpg",
+          "title": "ANIEKIN Hair Dryer",
+          "description": "1875W Ionic Blow Dryer with Diffuser and Concentrator, Portable Hair Dryer for Travel, Light Grey",
+          "price": "26.99",
+          "link": "https://amzn.to/3XIoPTT"
+      },
+      {
+          "image": "path/to/image2.jpg",
+          "title": "Deal 2",
+          "description": "Description of deal 2.",
+          "price": "29.99",
+          "link": "https://example.com/deal2"
+      },
+      {
+        "image": "path/to/image2.jpg",
+        "title": "Deal 3",
+        "description": "Description of deal 3",
+        "price": "29.99",
+        "link": "https://example.com/deal2"
+    },
+    {
+      "image": "path/to/image2.jpg",
+      "title": "Deal 4",
+      "description": "Description of deal 4",
+      "price": "29.99",
+      "link": "https://example.com/deal2"
+  },
+  {
+    "image": "path/to/image2.jpg",
+    "title": "Deal 5",
+    "description": "Description of deal 5",
+    "price": "29.99",
+    "link": "https://example.com/deal2"
+},
+{
+  "image": "path/to/image2.jpg",
+  "title": "Deal 6",
+  "description": "Description of deal 6",
+  "price": "29.99",
+  "link": "https://example.com/deal2"
+}
+
+]
+}
+
