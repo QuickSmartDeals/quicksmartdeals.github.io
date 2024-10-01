@@ -1,0 +1,16 @@
+{
+  "deals": [
+    {
+      "title": "Amazon Deal",
+      "description": "Get amazing discounts on Amazon!",
+      "link": "https://amazon.com",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "title": "Walmart Deal",
+      "description": "Exclusive offers at Walmart.",
+      "link": "https://walmart.com",
+      "image": "https://via.placeholder.com/150"
+    }
+  ]
+}
