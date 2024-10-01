@@ -8,18 +8,18 @@
           "link": "https://amzn.to/3XIoPTT"
       },
       {
-          "image": "path/to/image2.jpg",
-          "title": "Deal 2",
-          "description": "Description of deal 2.",
-          "price": "29.99",
-          "link": "https://example.com/deal2"
+          "image": "images/echodot.jpg",
+          "title": "Amazon Echo Dot (5th Gen, 2022 release)",
+          "description": "With bigger vibrant sound, helpful routines and Alexa | Deep Sea Blue",
+          "price": "22.99",
+          "link": "https://amzn.to/3Br1cb3"
       },
       {
-        "image": "path/to/image2.jpg",
-        "title": "Deal 3",
-        "description": "Description of deal 3",
-        "price": "29.99",
-        "link": "https://example.com/deal2"
+        "image": "images/halloween.jpg",
+        "title": "Tipsy Elves Halloween Skeleton Costume for Women",
+        "description": "Comfy Easy Adult Onesie Jumpsuit - Front and Back Print with Zip Up Mask",
+        "price": "49.94",
+        "link": "https://amzn.to/3ZLMCVG"
     },
     {
       "image": "path/to/image2.jpg",
